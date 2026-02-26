@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia de Software`**
 
-Sou Gustavo Antunes, tenho 17 anos e sou natural do Paraná. Atualmente, estou cursando Engenharia de Software na Unicesumar. 
+Sou Gustavo Antunes, tenho 19 anos e sou natural do Paraná. Atualmente, estou cursando Engenharia de Software na Unicesumar. 
 
 ### 🌐 Onde me encontrar
 
